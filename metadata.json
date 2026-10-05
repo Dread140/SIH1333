@@ -1,0 +1,6 @@
+{
+  "name": "SwasthyaSetu - Rural Care Coordination & Referral Network",
+  "description": "Facility-readiness-aware closed-loop public healthcare referral and care pathway coordination network.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
